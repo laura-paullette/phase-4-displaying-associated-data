@@ -37,3 +37,5 @@ group :test do
 end
 
 gem "faker", "~> 2.17"
+
+gem 'wdm'
